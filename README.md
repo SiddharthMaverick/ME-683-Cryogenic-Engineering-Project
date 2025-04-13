@@ -1,6 +1,4 @@
-# Simulation of Open-Cycle JT Cryocooler using PINNs
-
-## 📘 Project Title
+# 📘 Project Title
 **Experimental and Numerical Investigation of an Open-Cycle Miniature Joule-Thomson Cryocooler for Working Temperatures 100 K to 150 K with Single Component Coolants**
 
 ---
