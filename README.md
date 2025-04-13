@@ -95,11 +95,6 @@ All its thermophysical properties were obtained from the **NIST REFPROP database
 
 ## 📐 Effective Cooling Power
 
-From NIST data at 343.15 K, using the equation:  
-\[
-\Delta h = \frac{h_{\text{low-pressure}} - h_{\text{high-pressure}}}{M}
-\]
-
 NF₃ outperforms both R14 and Krypton across all operating pressures.  
 This makes NF₃ an ideal coolant for portable cryocoolers operating in **unregulated open-cycle environments**.
 
